@@ -157,7 +157,7 @@ Possible features to add:
 
 ## 🙌 Contribution
 
-## Contributing
+
 
 We welcome contributions!
 
