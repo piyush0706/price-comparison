@@ -157,13 +157,18 @@ Possible features to add:
 
 ## 🙌 Contribution
 
-This is a personal/learning project, but you can:
+## Contributing
 
-* Fork the repository
-* Create a new branch
-* Make changes
-* Open a pull request
+We welcome contributions!
 
----
+1. Fork this repository.
+2. Create a new branch: `git checkout -b feature-name`.
+3. Make your changes.
+4. Test your changes.
+5. Commit with a meaningful message.
+6. Push to your fork and open a Pull Request.
+
+Please follow the project's coding style and structure.
+
 
 
