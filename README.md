@@ -123,6 +123,21 @@ Open it in your browser to view the app.
 
 ---
 
+## 📌 🧪 Example Usage Section
+
+1. Enter the product name in the search bar.
+2. Click **Compare Prices**.
+3. The app will fetch price data from multiple online stores.
+4. View the table to see which platform offers the lowest price.
+
+### 🔍 Example Search: "OnePlus Nord CE 3 Lite"
+
+| Platform | Price |
+|----------|-------|
+| Amazon   | ₹18,999 |
+| Flipkart | ₹19,450 |
+| Croma    | ₹18,799 |
+
 ## 📦 Scripts (from `package.json`)
 
 Common scripts:
